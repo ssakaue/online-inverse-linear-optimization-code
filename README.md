@@ -6,7 +6,7 @@ This repository contains a source code to reproduce the experiments from the pap
 We compare three methods:
 - **ONS**: our proposed method based on the online Newton step,
 - **OGD**: a method based on the online gradient descent by Bärmann et al. (2020), and 
-- **CP**: A cutting-plane–style heuristic using randomized centroid approximation, inspired by Gollapudi et al. (2021).
+- **CP**: a cutting-plane–style heuristic using randomized centroid approximation, inspired by Gollapudi et al. (2021).
 
 
 ## What’s Included
